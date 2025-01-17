@@ -64,5 +64,5 @@ In this project, we implemented and extended the methodology presented in the pa
 ## References
 - [SC Sleep-EDF Database](https://physionet.org/content/sleep-edfx/1.0.0/sleep-cassette/)
 - [Automatic Sleep Stages Classification Using EEG Entropy Features and Unsupervised Pattern Analysis Techniques](https://www.mdpi.com/1099-4300/16/12/6573)
-- Research papers on entropy-based EEG analysis
+
 
