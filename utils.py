@@ -1,4 +1,4 @@
-import mne # library to process .edf files
+import mne
 import pandas as pd
 import os
 from typing import Union, Tuple
