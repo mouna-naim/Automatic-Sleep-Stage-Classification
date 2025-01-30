@@ -7,10 +7,6 @@ Sleep stage classification is a crucial component of sleep research and medical 
 
 In this project, we implemented and extended the methodology presented in the paper ["Automatic Sleep Stages Classification Using EEG Entropy Features and Unsupervised Pattern Analysis Techniques"](https://www.mdpi.com/1099-4300/16/12/6573). The original work leverages entropy-based metrics extracted from EEG signals combined with unsupervised clustering for classification. We aimed to enhance the performance of this approach by introducing additional statistical features in conjunction with those proposed in the paper. These extra features help refine the classification process by capturing additional signal characteristics and improving accuracy.
 
-## Authors
-- **Bouallou Youness** (ENS Paris-Saclay)
-- **Mouna Naim** (ENS Paris-Saclay)
-
 ## Features & Methodology
 1. **EEG Signal Preprocessing**
    - Data sourced from the **SC Sleep-EDF Database [Expanded]**.
